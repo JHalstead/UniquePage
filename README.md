@@ -1,17 +1,21 @@
-<h1>JHalstead - Unique Page</h1>
+<h1>PowerShell - Unique Page</h1>
 
  <!-- ### [YouTube Demonstration](https://youtu.be/vvvggg) -->
 
 <h2>Description</h2>
 Project consists of a simple PowerShell script that creates a grid in whice the Cell value is unique on the X and Y.
-<br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Skills Used</h2>
+<!--[Bullet Points - Remove this afterwards]
+- Advanced understanding of SIEM concepts and practical application.
+-->
+
+<h2>Tools Used</h2>
 
 - <b>PowerShell</b> 
 
 <!--
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
 
 <p align="center">
 Launch the utility: <br/>
